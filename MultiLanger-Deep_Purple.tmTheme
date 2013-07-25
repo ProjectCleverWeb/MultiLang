@@ -5,14 +5,14 @@
 	<key>comment</key>
 	<string>A color scheme designed to allow multi-language files to be more easily understood.</string>
 	<key>name</key>
-	<string>MultiLanger-Dark</string>
+	<string>MultiLanger-Deep_Purple</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#151515</string>
+				<string>#181229</string>
 				<key>caret</key>
 				<string>#ff321e</string>
 				<key>foreground</key>
@@ -20,9 +20,9 @@
 				<key>invisibles</key>
 				<string>#e2dd05</string>
 				<key>lineHighlight</key>
-				<string>#323a47</string>
+				<string>#332558</string>
 				<key>selection</key>
-				<string>#323a47</string>
+				<string>#332558</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1124,7 +1124,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.multi_langer_dark</string>
+	<string>theme.dark.multi_langer_dull_blue</string>
 	<key>author</key>
 	<string>Nicholas Jordon</string>
 </dict>
