@@ -109,7 +109,7 @@ Everyone is welcome to submit their own ideas, and it is my hope that you do. I 
     * **Yes.**
 * Will there ever be a light/white version of these themes?
     * **Yes. At the moment, we don't have the light version where we want it quite yet so it hasn't been released. In the future we will also have color variations of the white, including Pink, Orange and Blue versions**
-* I don't like the way <insert language> is colored, can you Change it to something like <insert other language>?
+* I don't like the way &lt;insert language&gt; is colored, can you Change it to something like <insert other language>?
     * **No, colors for all languages are chosen based on how they look next to other languages they are commonly found with, and not by "favorite" colors.**
 * Why is &lt;insert programming language&gt; not being highlighted?
     * **Sublime Text doesn't support all languages by default, so some languages may require you to install a plugin (aka package) in order for them to be highlighted.**
