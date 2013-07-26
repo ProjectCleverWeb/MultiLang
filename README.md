@@ -80,7 +80,7 @@ Clone this repo to your `packages` folder.
 
 ##Usage
 
-1. Go `Preferences -> Color Scheme -> MultiLang -> <scheme-name>`  
+1. Go `Preferences -> Color Scheme -> MultiLang Color Schemes -> <scheme-name>`  
 
 2. That's it! Enjoy, your new schemes.
 
