@@ -154,3 +154,6 @@ See `changelog/current.md`
 
 [↑Table of Contents↑](#table-of-contents)
 
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/1c20073566d0f0cbd8f5fee02dae4cea "githalytics.com")](http://githalytics.com/ProjectCleverWeb/MultiLang)
