@@ -8,6 +8,8 @@
 * **License:** GNU GPL v3  
 * **License URL:** http://www.gnu.org/licenses/gpl-3.0.html  
 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/1c20073566d0f0cbd8f5fee02dae4cea "githalytics.com")](http://githalytics.com/ProjectCleverWeb/MultiLang)
+
 ##Table of Contents
 * [Languages](#languages)
     * [Directly Supported Languages](#directly-supported-languages)
