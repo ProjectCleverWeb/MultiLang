@@ -1,5 +1,5 @@
 ![Schemes Designed For Humans To Read](http://i.imgur.com/nVWX4VB.png)
-
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ProjectCleverWeb/MultiLang/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ---
 ##Credit
 **Copyright &copy; Nicholas Jordon - All Rights Reserved**
@@ -153,7 +153,3 @@ See `changelog/current.md`
 ![meh](http://i.imgur.com/5wWIJFe.png)
 
 [↑Table of Contents↑](#table-of-contents)
-
-
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/1c20073566d0f0cbd8f5fee02dae4cea "githalytics.com")](http://githalytics.com/ProjectCleverWeb/MultiLang)
