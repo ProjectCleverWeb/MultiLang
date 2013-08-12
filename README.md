@@ -154,3 +154,7 @@ See `changelog/current.md`
 
 [↑Table of Contents↑](#table-of-contents)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ProjectCleverWeb/MultiLang/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
